@@ -35,6 +35,7 @@ fun main(args: Array<String>) {
     println("Superheroe: ${superHeroe}")
 
     var adrian = Persona(Integer(28), "Adrian")
+    // var vicente = PersonaDos()
     println(adrian.toString())
 
 
